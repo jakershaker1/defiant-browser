@@ -41,3 +41,5 @@ Please see the [contributing guidelines](./CONTRIBUTING.md)
 Help us translate Brave to your language by submitting translations at https://www.transifex.com/brave/brave/
 
 Follow [@brave](https://twitter.com/brave) on Twitter for important news and announcements.
+
+[![Run on Repl.it](https://repl.it/badge/github/jakershaker1/defiant-browser)](https://repl.it/github/jakershaker1/defiant-browser)
